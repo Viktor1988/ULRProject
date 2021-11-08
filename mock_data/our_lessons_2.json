@@ -1,0 +1,38 @@
+{
+	"courses":[
+	{
+	"id" : 1,
+	"name" : "JSONDecoder (19:31)",
+	"link":"https://swiftbook.ru/content/24-video-7/",
+	"imageUrl":"https://swiftbook.ru/wp-content/uploads/sites/2/2019/04/10-course-copy-8.png",
+	"number_of_lessons":20,
+	"number_of_tests":10
+},
+{
+	"id" : 2,
+	"name" : "Курс 37: Приложения На Основе Коллекций",
+	"link":"https://swiftbook.ru/content/37-index/",
+	"imageUrl":"https://swiftbook.ru/wp-content/uploads/sites/2/2020/03/12-course-copy-14-1.jpg",
+	"number_of_lessons":20,
+	"number_of_tests":10
+},
+{
+	"id" : 3,
+	"name" : "Курс: UIKit",
+	"link":"https://swiftbook.ru/content/21-index/",
+	"imageUrl":"hhttps://swiftbook.ru/wp-content/uploads/sites/2/2019/04/21-course-UIKit.png",
+	"number_of_lessons":20,
+	"number_of_tests":10
+},
+{
+	"id" : 4,
+	"name" : "Курс 26: Приложения На Основе UITableView",
+	"link":"https://swiftbook.ru/content/26-index/",
+	"imageUrl":"https://swiftbook.ru/wp-content/uploads/sites/2/2019/04/Course-TableView.png",
+	"number_of_lessons":20,
+	"number_of_tests":10
+}
+],
+"webSiteDescription" :"Site For study Swift language",
+"webSiteName":"SwiftBook.ru"
+}
